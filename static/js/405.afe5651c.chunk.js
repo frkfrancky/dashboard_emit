@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkge_note=self.webpackChunkge_note||[]).push([[405],{405:function(e,p,r){r.r(p);r(791);var n=r(184);p.default=function(e){return(0,n.jsx)("div",{className:"AppWrapper",children:"App Wrapper Works"})}}}]);
+//# sourceMappingURL=405.afe5651c.chunk.js.map

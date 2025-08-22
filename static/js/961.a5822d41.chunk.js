@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkge_note=self.webpackChunkge_note||[]).push([[961],{961:function(n,e,r){r.r(e),r.d(e,{default:function(){return i}});r(791);var s=r(184);var t=function(n){return(0,s.jsx)("div",{children:(0,s.jsx)("h1",{children:"Hello Components"})})};var i=function(n){return(0,s.jsxs)("div",{className:"Inscription",children:["Inscription Works",(0,s.jsx)(t,{})]})}}}]);
+//# sourceMappingURL=961.a5822d41.chunk.js.map

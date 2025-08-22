@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkge_note=self.webpackChunkge_note||[]).push([[158],{158:function(e,n,t){t.r(n);t(791);var s=t(184);n.default=function(e){return(0,s.jsxs)("div",{className:"not-found-page",children:[(0,s.jsx)("h1",{children:"404 NOT FOUND"}),(0,s.jsx)("button",{className:"ge-btn btn-hight",children:"Revenir a l'acceuil"})]})}}}]);
+//# sourceMappingURL=158.2fb71a04.chunk.js.map
